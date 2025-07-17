@@ -5,7 +5,7 @@ This repository contains the code and resources accompanying the paper:
 **"An Interpretable AI Framework for Clear-Sky Detection in Photovoltaics Monitoring"**  
 by Bohan Li, Hugo Quest, et al.
 
-![Framework Overview](figures/CSD_Framework.pdf)
+![Framework Overview](figures/CSD_Framework.png)
 
 ## Overview
 

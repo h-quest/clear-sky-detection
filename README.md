@@ -5,6 +5,8 @@ This repository contains the code and resources accompanying the paper:
 **"An Interpretable AI Framework for Clear-Sky Detection in Photovoltaics Monitoring"**  
 by Bohan Li, Hugo Quest, et al.
 
+![Framework Overview](figures/CSD_Framework.pdf)
+
 ## Overview
 
 This project presents a high-performance, interpretable clear-sky detection (CSD) model designed for photovoltaic (PV) monitoring applications. The framework combines a CatBoost classifier with SHAP (SHapley Additive exPlanations) to analyse and iteratively refine model misclassifications in a closed-loop, explainability-driven workflow.
